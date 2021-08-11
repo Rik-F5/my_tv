@@ -1,0 +1,86 @@
+http://116.12.63.181:9580/webdav/wtv28001.m3u8
+
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视", CCTV-1 综合
+http://39.135.138.58:18890/PLTV/88888910/224/3221225762/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视", CCTV-5 体育
+http://39.135.138.58:18890/PLTV/88888910/224/3221225633/index.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视", CCTV-13 新闻
+http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视", CCTV-13 新闻-2
+http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/1/index.m3u8?fmt=ts2hls
+
+
+
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/.images/tv.9.png" group-title="NZ",TVNZ 1
+https://i.mjh.nz/nz/tv.9.m3u8
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://i.mjh.nz/.images/tv.10.png" group-title="NZ",TVNZ 2
+https://i.mjh.nz/nz/tv.10.m3u8
+
+#EXTINF:-1 tvg-id="tv.11" tvg-logo="https://i.mjh.nz/.images/tv.11.png" group-title="NZ",Three
+https://i.mjh.nz/nz/tv.11.m3u8
+
+#EXTINF:-1 tvg-id="tv.12" tvg-logo="https://i.mjh.nz/.images/tv.12.png" group-title="NZ",Bravo
+https://i.mjh.nz/nz/tv.12.m3u8
+
+#EXTINF:-1 tvg-id="tv.28" tvg-logo="https://i.mjh.nz/.images/tv.28.png" group-title="NZ",PRIME
+https://i.mjh.nz/nz/tv.28.m3u8
+
+#EXTINF:-1 tvg-id="tv.51" tvg-logo="https://i.mjh.nz/.images/tv.51.png" group-title="NZ",The Edge TV
+https://i.mjh.nz/nz/tv.51.m3u8
+
+#EXTINF:-1 tvg-id="tv.55" tvg-logo="https://i.mjh.nz/.images/tv.55.png" group-title="NZ",DUKE
+https://i.mjh.nz/nz/tv.55.m3u8
+
+#EXTINF:-1 tvg-id="tv.68" tvg-logo="https://i.mjh.nz/.images/tv.68.png" group-title="NZ",BREEZE TV
+https://i.mjh.nz/nz/tv.68.m3u8
+
+#EXTINF:-1 tvg-id="tv.20" tvg-logo="https://i.mjh.nz/.images/tv.20.png" group-title="NZ",Te Reo
+https://i.mjh.nz/nz/tv.20.m3u8
+
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="https://i.mjh.nz/.images/tv.46.png" group-title="NZ",Al Jazeera
+https://i.mjh.nz/nz/tv.46.m3u8
+
+#EXTINF:-1 tvg-id="tv.58" tvg-logo="https://i.mjh.nz/.images/tv.58.png" group-title="NZ",HGTV
+https://i.mjh.nz/nz/tv.58.m3u8
+
+#EXTINF:-1 tvg-id="tv.7" tvg-logo="https://i.mjh.nz/.images/tv.7.png" group-title="NZ",Shine TV
+https://i.mjh.nz/nz/tv.7.m3u8
+
+#EXTINF:-1 tvg-id="tv.39" tvg-logo="https://i.mjh.nz/.images/tv.39.png" group-title="NZ",Firstlight
+https://i.mjh.nz/nz/tv.39.m3u8
+
+#EXTINF:-1 tvg-id="tv.56" tvg-logo="https://i.mjh.nz/.images/tv.56.png" group-title="NZ",Hope Channel
+https://c.mjh.nz/hope/
+
+#EXTINF:-1 tvg-id="tv.21" tvg-logo="https://i.mjh.nz/.images/tv.21.png" group-title="NZ",Chinese TV28
+https://i.mjh.nz/nz/tv.21.m3u8
+
+#EXTINF:-1 tvg-id="tv.36" tvg-logo="https://i.mjh.nz/.images/tv.36.png" group-title="NZ",Chinese TV29
+https://i.mjh.nz/nz/tv.36.m3u8
+
+#EXTINF:-1 tvg-id="tv.18" tvg-logo="https://i.mjh.nz/.images/tv.18.png" group-title="NZ",Parliament TV
+https://i.mjh.nz/nz/tv.18.m3u8
+
+#EXTINF:-1 tvg-id="tv.49" tvg-logo="https://i.mjh.nz/.images/tv.49.png" group-title="NZ",APNA Television
+https://i.mjh.nz/nz/tv.49.m3u8
+
+#EXTINF:-1 tvg-id="tv.63" tvg-logo="https://i.mjh.nz/.images/tv.63.png" group-title="NZ",Panda TV
+https://i.mjh.nz/nz/tv.63.m3u8
+
+#EXTINF:-1 tvg-id="tv.60" tvg-logo="https://i.mjh.nz/.images/tv.60.png" group-title="NZ",Wairarapa TV
+https://i.mjh.nz/nz/tv.60.m3u8
+
+#EXTINF:-1 tvg-id="tv.66" tvg-logo="https://i.mjh.nz/.images/tv.66.png" group-title="NZ",CH200
+https://i.mjh.nz/nz/tv.66.m3u8
+
+#EXTINF:-1 tvg-id="tv.juice" tvg-logo="https://i.mjh.nz/.images/tv.juice.png" group-title="NZ",Juice TV
+https://i.mjh.nz/nz/tv.juice.m3u8
+
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="https://i.mjh.nz/.images/tv.redbull.tv.png" group-title="NZ",Redbull TV
+https://i.mjh.nz/nz/tv.redbull.tv.m3u8
