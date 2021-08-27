@@ -11,9 +11,6 @@ http://39.135.138.58:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视", CCTV-13 新闻
 http://39.135.138.58:18890/PLTV/88888910/224/3221225638/index.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视", CCTV-13 新闻-2
-http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/1/index.m3u8?fmt=ts2hls
-
 
 
 #EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/.images/tv.9.png" group-title="NZ",TVNZ 1
