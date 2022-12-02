@@ -9,7 +9,7 @@ https://live.olelive.com:6443/live/CCTV1HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8?token=zoacmbq0jCvMYwF1lAcAANyMPN2lCg3-dgaw8FARU9KKBHcajcurIuBYrGzio8-7cUJ_fS84dIOO7z4xfovHcA-8wgCC5SZAHoGOQ1jFi21vJMAtzWFK8e8f-tl8WSsPe5m3OYeRWi2HWXZiHwaYlQ==
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="央视", CCTV-5+ 体育
-https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+https://node2.olelive.com:6443/live/CCTV5PHD_1080/hls.m3u8?token=LMJISpl9xZ90iTRj7yzLJhycQAX0WXUaf_A1F7JpjIU1JOARdNeh2ZVP8HG7zIpWBwBqQSddzgXFo2PBYxln9XpNX1njiXA5dtQDwKEEqsPxD9e2pZ-eZuv53igP7ehltQZ2OHjiZ8Y4VWDaGt3cIQ==
 
 #EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视", CCTV-13 新闻
 https://live.olelive.com:6443/live/CCTV13HD/hls.m3u8
