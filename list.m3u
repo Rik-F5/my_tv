@@ -6,7 +6,7 @@
 https://live.olelive.com:6443/live/CCTV1HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视", CCTV-5 体育
-https://node1.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8?token=zoacmbq0jCvMYwF1lAcAANyMPN2lCg3-dgaw8FARU9KKBHcajcurIuBYrGzio8-7cUJ_fS84dIOO7z4xfovHcA-8wgCC5SZAHoGOQ1jFi21vJMAtzWFK8e8f-tl8WSsPe5m3OYeRWi2HWXZiHwaYlQ==
+https://pull-l3-cny.douyincdn.com/live/a15129efb99907d613b9439279a1bbcd.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="央视", CCTV-5+ 体育
 https://node2.olelive.com:6443/live/CCTV5PHD_1080/hls.m3u8?token=LMJISpl9xZ90iTRj7yzLJhycQAX0WXUaf_A1F7JpjIU1JOARdNeh2ZVP8HG7zIpWBwBqQSddzgXFo2PBYxln9XpNX1njiXA5dtQDwKEEqsPxD9e2pZ-eZuv53igP7ehltQZ2OHjiZ8Y4VWDaGt3cIQ==
@@ -15,7 +15,7 @@ https://node2.olelive.com:6443/live/CCTV5PHD_1080/hls.m3u8?token=LMJISpl9xZ90iTR
 https://live.olelive.com:6443/live/CCTV13HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5_backup" group-title="央视", CCTV-5 体育备份
-https://node1.olelive.com:6443/live/CCTV5HD_1080/hls.m3u8?token=
+https://pull-l3-cny.douyincdn.com/live/a15129efb99907d613b9439279a1bbcd.m3u8
 
 
 #EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/.images/tv.9.png" group-title="NZ",TVNZ 1
